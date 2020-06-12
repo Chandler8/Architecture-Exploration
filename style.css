@@ -14,11 +14,12 @@
 
 
 body {
-    background: url('Egg.jpg') no-repeat;
+    
     background-size: auto;
     margin-left: 20%;
     width: 1600px;
     height: 1020px;
+    background-color: grey;
    }
    
    ul {
